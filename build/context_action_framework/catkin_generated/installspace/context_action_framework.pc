@@ -1,0 +1,8 @@
+prefix=/home/docker/catkin_ws/install
+
+Name: context_action_framework
+Description: Description of context_action_framework
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

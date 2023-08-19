@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/ros_vision_pipeline/lib/pkgconfig/ros_vision_pipeline.pc

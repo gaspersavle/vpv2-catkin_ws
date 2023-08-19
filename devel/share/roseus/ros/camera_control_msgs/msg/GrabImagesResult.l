@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/camera_control_msgs/share/roseus/ros/camera_control_msgs/msg/GrabImagesResult.l

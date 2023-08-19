@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/ros_vision_pipeline/share/ros_vision_pipeline/cmake/ros_vision_pipelineConfig-version.cmake

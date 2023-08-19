@@ -1,0 +1,18 @@
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _ros_vision_pipeline_generate_messages_check_deps_ColourDepth
+[  0%] Built target _ros_vision_pipeline_generate_messages_check_deps_Detection
+[ 15%] Built target ros_vision_pipeline_generate_messages_cpp
+[ 38%] Built target ros_vision_pipeline_generate_messages_eus
+[ 69%] Built target ros_vision_pipeline_generate_messages_py
+[100%] Built target ros_vision_pipeline_generate_messages_nodejs
+[100%] Built target ros_vision_pipeline_generate_messages_lisp
+[100%] Built target ros_vision_pipeline_generate_messages

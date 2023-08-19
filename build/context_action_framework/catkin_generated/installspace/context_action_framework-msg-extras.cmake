@@ -1,0 +1,2 @@
+set(context_action_framework_MESSAGE_FILES "msg/Detection.msg;msg/Detections.msg;msg/Gap.msg;msg/Gaps.msg;msg/CutBlock.msg;msg/LeverBlock.msg;msg/MoveBlock.msg;msg/PushBlock.msg;msg/TurnOverBlock.msg;msg/ViceBlock.msg;msg/VisionBlock.msg;msg/CutDetails.msg;msg/LeverDetails.msg;msg/MoveDetails.msg;msg/PushDetails.msg;msg/TurnOverDetails.msg;msg/ViceDetails.msg;msg/VisionDetails.msg")
+set(context_action_framework_SERVICE_FILES "srv/NextAction.srv;srv/VisionDetection.srv")

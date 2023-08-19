@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/camera_control_msgs/share/camera_control_msgs/cmake/camera_control_msgsConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/ros_vision_pipeline/share/gennodejs/ros/ros_vision_pipeline/srv/_index.js

@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/context_action_framework/share/roseus/ros/context_action_framework/msg/Detections.l

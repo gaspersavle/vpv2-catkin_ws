@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/ros_vision_pipeline/lib/python3/dist-packages/ros_vision_pipeline/msg/_ColourDepth.py

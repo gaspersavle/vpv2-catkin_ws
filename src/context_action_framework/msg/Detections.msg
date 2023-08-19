@@ -1,0 +1,3 @@
+Header header
+time camera_acquisition_stamp
+context_action_framework/Detection[] detections

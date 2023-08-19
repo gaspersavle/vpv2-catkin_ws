@@ -1,0 +1,7 @@
+set(context_action_framework_SETUP_PY_SETUP_MODULE "distutils.core")
+set(context_action_framework_SETUP_PY_VERSION "0.0.1")
+set(context_action_framework_SETUP_PY_SCRIPTS "")
+set(context_action_framework_SETUP_PY_PACKAGES "context_action_framework")
+set(context_action_framework_SETUP_PY_PACKAGE_DIRS "src/context_action_framework")
+set(context_action_framework_SETUP_PY_MODULES "")
+set(context_action_framework_SETUP_PY_MODULE_DIRS "")

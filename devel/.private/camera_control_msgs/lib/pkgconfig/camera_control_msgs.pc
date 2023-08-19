@@ -1,0 +1,8 @@
+prefix=/home/docker/catkin_ws/devel/.private/camera_control_msgs
+
+Name: camera_control_msgs
+Description: Description of camera_control_msgs
+Version: 0.2.5
+Cflags: -I/home/docker/catkin_ws/devel/.private/camera_control_msgs/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs sensor_msgs message_runtime

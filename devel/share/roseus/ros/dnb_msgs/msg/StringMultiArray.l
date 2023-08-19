@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/dnb_msgs/share/roseus/ros/dnb_msgs/msg/StringMultiArray.l

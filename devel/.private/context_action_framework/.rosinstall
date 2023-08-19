@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/docker/catkin_ws/devel/.private/context_action_framework/setup.sh

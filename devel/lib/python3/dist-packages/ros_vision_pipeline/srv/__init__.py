@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/ros_vision_pipeline/lib/python3/dist-packages/ros_vision_pipeline/srv/__init__.py

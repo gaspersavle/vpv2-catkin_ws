@@ -1,0 +1,1 @@
+/home/docker/catkin_ws/devel/.private/ros_vision_pipeline/share/roseus/ros/ros_vision_pipeline/msg/ColourDepth.l

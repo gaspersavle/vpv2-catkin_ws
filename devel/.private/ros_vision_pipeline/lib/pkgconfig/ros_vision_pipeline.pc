@@ -1,0 +1,8 @@
+prefix=/home/docker/catkin_ws/devel/.private/ros_vision_pipeline
+
+Name: ros_vision_pipeline
+Description: Description of ros_vision_pipeline
+Version: 0.1.0
+Cflags: -I/home/docker/catkin_ws/devel/.private/ros_vision_pipeline/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

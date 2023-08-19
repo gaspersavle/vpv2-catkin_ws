@@ -1,0 +1,6 @@
+int8 camera # from types Camera
+bool gap_detection
+---
+bool success
+context_action_framework/VisionDetails vision_details
+sensor_msgs/Image image

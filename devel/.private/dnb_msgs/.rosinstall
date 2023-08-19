@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/docker/catkin_ws/devel/.private/dnb_msgs/setup.sh
